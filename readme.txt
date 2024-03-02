@@ -1,14 +1,7 @@
 
-1
+
 🛠️ Building a Responsive Website with HTML, CSS, Bootstrap, and jQuery🌐
-#
-html
-#
-webdev
-#
-beginners
-#
-programming
+
 Hey there, website enthusiasts !
 
 Ever had that awkward moment when you try to visit a website on your phone and it looks like a jumbled mess? Yeah, not a good look. That's why I'm excited to show off my brand new website, built with the latest and greatest tech to ensure it looks amazing on any device, from your grandma's giant desktop computer to your kid's juice-stained tablet .
